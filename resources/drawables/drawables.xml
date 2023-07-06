@@ -1,0 +1,11 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list id="MinuteControls" x="0%" y="0%" width="50%" height="100%">
+        <shape type="polygon" points="[[37%,35%],[75%,35%],[56%,25%]]" color="Graphics.COLOR_WHITE" />
+        <shape type="polygon" points="[[37%,68%],[75%,68%],[56%,78%]]" color="Graphics.COLOR_WHITE" />
+    </drawable-list>
+    <drawable-list id="SecondControls" x="25%" y="0%" width="50%" height="100%">
+        <shape type="polygon" points="[[25%,35%],[63%,35%],[44%,25%]]" color="Graphics.COLOR_WHITE" />
+        <shape type="polygon" points="[[25%,68%],[63%,68%],[44%,78%]]" color="Graphics.COLOR_WHITE" />
+    </drawable-list>
+</drawables>

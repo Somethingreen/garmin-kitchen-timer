@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Kitchen Timer</string>
+
+    <string id="timerTitle">Timer</string>
+    <string id="confirmationExit">Exit?</string>
+</strings>

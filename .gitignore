@@ -1,0 +1,13 @@
+bin/KitchenTimer.prg
+bin/KitchenTimer.prg.debug.xml
+bin/gen/006-B3991-00/source/Rez.mcgen
+bin/gen/resources/cache/i15dc7280.mbc
+bin/gen/resources/cache/i819ecbf1.mbc
+bin/gen/resources/cache/ic028e01e.mbc
+bin/internal-mir/Rez.mir
+bin/mir/source/KitchenTimerApp.mir
+bin/mir/source/KitchenTimerDelegate.mir
+bin/mir/source/KitchenTimerMenuDelegate.mir
+bin/mir/source/KitchenTimerView.mir
+bin/mir/source/TimePicker.mir
+bin/mir/source/Util.mir
